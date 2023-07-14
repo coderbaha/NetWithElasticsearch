@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWithElasticsearch", "NetWithElasticsearch\NetWithElasticsearch.csproj", "{1D15B8D8-C80C-4BC2-9E86-3F7A9959818C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D15B8D8-C80C-4BC2-9E86-3F7A9959818C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D15B8D8-C80C-4BC2-9E86-3F7A9959818C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D15B8D8-C80C-4BC2-9E86-3F7A9959818C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D15B8D8-C80C-4BC2-9E86-3F7A9959818C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B21F192-57B4-4E7B-9B9B-92F6BDFE6443}
+	EndGlobalSection
+EndGlobal
